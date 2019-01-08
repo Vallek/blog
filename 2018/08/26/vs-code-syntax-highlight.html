@@ -9,13 +9,13 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Решить, вроде бы, банальный для редактора кода вопрос из заголовка, в VS Code оказалось непросто. В Sublime Text для этого достаточно распаковать файл темы, найти нужное значение и поменять цвет. Но мне нужен был официально бесплатный для коммерческого использования редактор и из тех, что я пробовал, VS Code показался самым нормальным (еще потыкал Brackets и Atom). Но, как это обычно бывает, чем дольше чем-то пользуешься, тем больше косяков находишь. Особенно у Майкрософт, да. Тут они решили не искать простых путей (по крайней мере, для пользователя). Хотите поменять один цвет? Вам придется либо создавать тему с нуля, либо собирать по крупицам рецепт ниже. Может этот пост сэкономит кому-то время и нервы." />
 <meta property="og:description" content="Решить, вроде бы, банальный для редактора кода вопрос из заголовка, в VS Code оказалось непросто. В Sublime Text для этого достаточно распаковать файл темы, найти нужное значение и поменять цвет. Но мне нужен был официально бесплатный для коммерческого использования редактор и из тех, что я пробовал, VS Code показался самым нормальным (еще потыкал Brackets и Atom). Но, как это обычно бывает, чем дольше чем-то пользуешься, тем больше косяков находишь. Особенно у Майкрософт, да. Тут они решили не искать простых путей (по крайней мере, для пользователя). Хотите поменять один цвет? Вам придется либо создавать тему с нуля, либо собирать по крупицам рецепт ниже. Может этот пост сэкономит кому-то время и нервы." />
-<link rel="canonical" href="http://localhost:4000/2019/01/07/vs-code-syntax-highlight.html" />
-<meta property="og:url" content="http://localhost:4000/2019/01/07/vs-code-syntax-highlight.html" />
+<link rel="canonical" href="http://localhost:4000/2018/08/26/vs-code-syntax-highlight.html" />
+<meta property="og:url" content="http://localhost:4000/2018/08/26/vs-code-syntax-highlight.html" />
 <meta property="og:site_name" content="Борьба с дизайном" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2019-01-07T00:00:00+03:00" />
+<meta property="article:published_time" content="2018-08-26T00:00:00+03:00" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/2019/01/07/vs-code-syntax-highlight.html","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2019/01/07/vs-code-syntax-highlight.html"},"description":"Решить, вроде бы, банальный для редактора кода вопрос из заголовка, в VS Code оказалось непросто. В Sublime Text для этого достаточно распаковать файл темы, найти нужное значение и поменять цвет. Но мне нужен был официально бесплатный для коммерческого использования редактор и из тех, что я пробовал, VS Code показался самым нормальным (еще потыкал Brackets и Atom). Но, как это обычно бывает, чем дольше чем-то пользуешься, тем больше косяков находишь. Особенно у Майкрософт, да. Тут они решили не искать простых путей (по крайней мере, для пользователя). Хотите поменять один цвет? Вам придется либо создавать тему с нуля, либо собирать по крупицам рецепт ниже. Может этот пост сэкономит кому-то время и нервы.","@type":"BlogPosting","headline":"Как изменить цвета подсветки синтаксиса в VS Code","dateModified":"2019-01-07T00:00:00+03:00","datePublished":"2019-01-07T00:00:00+03:00","@context":"http://schema.org"}</script>
+{"url":"http://localhost:4000/2018/08/26/vs-code-syntax-highlight.html","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2018/08/26/vs-code-syntax-highlight.html"},"description":"Решить, вроде бы, банальный для редактора кода вопрос из заголовка, в VS Code оказалось непросто. В Sublime Text для этого достаточно распаковать файл темы, найти нужное значение и поменять цвет. Но мне нужен был официально бесплатный для коммерческого использования редактор и из тех, что я пробовал, VS Code показался самым нормальным (еще потыкал Brackets и Atom). Но, как это обычно бывает, чем дольше чем-то пользуешься, тем больше косяков находишь. Особенно у Майкрософт, да. Тут они решили не искать простых путей (по крайней мере, для пользователя). Хотите поменять один цвет? Вам придется либо создавать тему с нуля, либо собирать по крупицам рецепт ниже. Может этот пост сэкономит кому-то время и нервы.","@type":"BlogPosting","headline":"Как изменить цвета подсветки синтаксиса в VS Code","dateModified":"2018-08-26T00:00:00+03:00","datePublished":"2018-08-26T00:00:00+03:00","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Борьба с дизайном" /></head>
 <body><header class="site-header" role="banner">
@@ -40,7 +40,7 @@
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">Как изменить цвета подсветки синтаксиса в VS Code</h1>
     <p class="post-meta">
-      <time class="dt-published" datetime="2019-01-07T00:00:00+03:00" itemprop="datePublished">Jan 7, 2019
+      <time class="dt-published" datetime="2018-08-26T00:00:00+03:00" itemprop="datePublished">Aug 26, 2018
       </time></p>
   </header>
 
@@ -71,17 +71,17 @@
 
 <p>Название темы в квадратных скобках просто заменяете на вашу. Вам нужно узнать значение scope для того элемента, который вы хотите изменить. Для этого откройте файл с кодом. Вызовите командную строку (Ctrl+Shift+P). Наберите Developer: Inspect TM Scopes и нажмите Enter. При клике на элемент, появится всплывающее окно:</p>
 
-<p><img src="/designblog/Images/BrK-p8PMBERKd8NTmD04oA.png" alt="скриншот-1" /></p>
+<p><img src="/Images/BrK-p8PMBERKd8NTmD04oA.png" alt="скриншот-1" /></p>
 
 <p>Оно сразу предлагает строку с называнием параметра (тот самый scope) и текущим цветом — entity.other.attribute-name { “foreground”: “#93A1A1” }. Но, это не то, что нам нужно! По-крайней мере в данном случае, этот параметр изменит цвет всех селекторов (и классов, и id). Но я хочу задать для каждого свой цвет. Поэтому нам нужен первый параметр из списка ниже. То есть entity.other.attribute-name.class.css. У идентификатора будет похожая картина, только scope будет entity.other.attribute-name.id.css.</p>
 
 <p>А вот после применения настроек scope также поменяется на нужный:</p>
 
-<p><img src="/designblog/Images/Gl2CS_N3358j5fO73nX9A.png" alt="скриншот-2" /></p>
+<p><img src="/Images/Gl2CS_N3358j5fO73nX9A.png" alt="скриншот-2" /></p>
 
 <p>Я оставил в коде запятые на случай, если вы захотите добавить других цветов и другие параметры на уровни выше.</p>
 
-  </div><a class="u-url" href="/2019/01/07/vs-code-syntax-highlight.html" hidden></a>
+  </div><a class="u-url" href="/2018/08/26/vs-code-syntax-highlight.html" hidden></a>
 </article>
 
       </div>
