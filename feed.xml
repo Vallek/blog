@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-08T19:46:57+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Борьба с дизайном</title><subtitle>Конструктивная критика дизайн-решений.</subtitle><entry><title type="html">Иконки должны быть цветными</title><link href="http://localhost:4000/2019/01/08/color-icons.html" rel="alternate" type="text/html" title="Иконки должны быть цветными" /><published>2019-01-08T00:00:00+03:00</published><updated>2019-01-08T00:00:00+03:00</updated><id>http://localhost:4000/2019/01/08/color-icons</id><content type="html" xml:base="http://localhost:4000/2019/01/08/color-icons.html">&lt;p&gt;Цвет - важная часть любого интерфейса, особенно того, где элементы маленькие, их много и они плотно прижаты друг к другу. Дизайнеру интерфейсов с иконками стоит пользоваться любой возможностью ускорить считываемость. К сожалению, многими современными дизайнерами цвет в оформлении иконок игнорируется. Виной тому, как это часто бывает, - мода.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-08T20:21:44+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Борьба с дизайном</title><subtitle>Конструктивная критика дизайн-решений.</subtitle><entry><title type="html">Иконки должны быть цветными</title><link href="http://localhost:4000/2019/01/08/color-icons.html" rel="alternate" type="text/html" title="Иконки должны быть цветными" /><published>2019-01-08T00:00:00+03:00</published><updated>2019-01-08T00:00:00+03:00</updated><id>http://localhost:4000/2019/01/08/color-icons</id><content type="html" xml:base="http://localhost:4000/2019/01/08/color-icons.html">&lt;p&gt;Цвет - важная часть любого интерфейса, особенно того, где элементы маленькие, их много и они плотно прижаты друг к другу. Дизайнеру интерфейсов с иконками стоит пользоваться любой возможностью ускорить считываемость. К сожалению, многими современными дизайнерами цвет в оформлении иконок игнорируется. Виной тому, как это часто бывает, - мода.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/Images/Screenshot_2019-01-08SearchUI_Bar.png&quot; alt=&quot;Иконки в системном трее&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Иконки встроенных программ в системном трее Виндоус стали черно былыми. К счастью сторонним приложениям не запрещено быть цветными. И посмотрите, насколько легче считываются цветные иконки.&lt;/p&gt;
+&lt;p&gt;Иконки встроенных программ в системном трее Windows 10 стали черно-белыми. К счастью сторонним приложениям не запрещено быть цветными. И посмотрите, насколько легче считываются цветные иконки.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/Images/img_580ab50544559.png&quot; alt=&quot;Цветные иконки&quot; /&gt;&lt;/p&gt;
 
@@ -20,7 +20,7 @@
 
 &lt;p&gt;Конечно, в фотошопе гораздо эффективнее и удобнее переключать инструменты горячими клавишами, но это не делает интерфейс лучше.&lt;/p&gt;
 
-&lt;p&gt;Тут важно сказать, что цвет не является главной по важности информацией в том, как мы визуально воспринимаем окружающий мир. Но, из этого совершенно не следует, что его нужно игнорировать!&lt;/p&gt;
+&lt;p&gt;Тут важно сказать, что цвет не является первой по важности информацией в том, как мы визуально воспринимаем окружающий мир. Но, из этого совершенно не следует, что его нужно игнорировать!&lt;/p&gt;
 
 &lt;p&gt;Но одного цвета мало. Иконки похожего цвета и формы придется разглядывать более пристально, чтобы не ошибиться.&lt;/p&gt;
 
