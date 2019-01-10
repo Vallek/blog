@@ -18,9 +18,10 @@
 {"url":"http://localhost:4000/2018/08/26/vs-code-syntax-highlight.html","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2018/08/26/vs-code-syntax-highlight.html"},"description":"Решить, вроде бы, банальный для редактора кода вопрос из заголовка, в VS Code оказалось непросто. В Sublime Text для этого достаточно распаковать файл темы, найти нужное значение и поменять цвет. Но мне нужен был официально бесплатный для коммерческого использования редактор и из тех, что я пробовал, VS Code показался самым нормальным (еще потыкал Brackets и Atom). Но, как это обычно бывает, чем дольше чем-то пользуешься, тем больше косяков находишь. Особенно у Майкрософт, да. Тут они решили не искать простых путей (по крайней мере, для пользователя). Хотите поменять один цвет? Вам придется либо создавать тему с нуля, либо собирать по крупицам рецепт ниже. Может этот пост сэкономит кому-то время и нервы.","@type":"BlogPosting","headline":"Как изменить цвета подсветки синтаксиса в VS Code","dateModified":"2018-08-26T00:00:00+03:00","datePublished":"2018-08-26T00:00:00+03:00","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css">
+  <link rel="stylesheet" href="/Styles/my-styles.css">
   <link rel="icon" sizes="16X16" href="/Icons/favicon.ico">
   <link rel="icon" sizes="32X32" href="/Icons/favicon.ico"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Борьба с дизайном" /></head>
-<body><header class="site-header" role="banner">
+<body><header class="site-header">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">Борьба с дизайном</a><nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -83,6 +84,151 @@
 
 <p>Я оставил в коде запятые на случай, если вы захотите добавить других цветов и другие параметры на уровни выше.</p>
 
+    <aside class="categories-sidebar">
+      <h2>Другие статьи по теме:</h2>
+      
+      
+      
+      <h3>изменения</h3>
+      
+      
+      <ul>
+        
+        
+        <li><a href="/2017/09/27/izmenenia-ili-zhisn.html">Изменения или жизнь</a></li>
+        
+        
+        </ul>
+      
+      
+      
+      <h3>дизайн</h3>
+      
+      
+      
+      <h3>дизайн</h3>
+      
+      
+      
+      <h3>дизайн</h3>
+      
+      
+      <ul>
+        
+        
+        <li><a href="/2019/01/08/color-icons.html">Иконки должны быть цветными</a></li>
+        
+        
+        
+        <li><a href="/2018/03/28/priznak-plohogo-disigna.html">Признак плохого дизайна</a></li>
+        
+        
+        
+        <li><a href="/2017/09/27/izmenenia-ili-zhisn.html">Изменения или жизнь</a></li>
+        
+        
+        </ul>
+      
+      
+      
+      <h3>css</h3>
+      
+      
+      <ul>
+        
+        
+        <li><a href="/2018/05/09/css-tricks-images-in-letters.html">CSS-трюки: Несколько изображений внутри букв без фотошопа</a></li>
+        
+        
+        </ul>
+      
+      
+      
+      <h3>веб-дизайн</h3>
+      
+      
+      <ul>
+        
+        
+        <li><a href="/2018/05/09/css-tricks-images-in-letters.html">CSS-трюки: Несколько изображений внутри букв без фотошопа</a></li>
+        
+        
+        </ul>
+      
+      
+      
+      <h3>трюки</h3>
+      
+      
+      
+      <h3>трюки</h3>
+      
+      
+      <ul>
+        
+        
+        <li><a href="/2018/06/01/chrom-abber-ph-mask.html">Фотошоп-трюки: хроматическая аберрация и маска границ</a></li>
+        
+        
+        
+        <li><a href="/2018/05/09/css-tricks-images-in-letters.html">CSS-трюки: Несколько изображений внутри букв без фотошопа</a></li>
+        
+        
+        </ul>
+      
+      
+      
+      <h3>фотошоп</h3>
+      
+      
+      <ul>
+        
+        
+        <li><a href="/2018/06/01/chrom-abber-ph-mask.html">Фотошоп-трюки: хроматическая аберрация и маска границ</a></li>
+        
+        
+        </ul>
+      
+      
+      
+      <h3>иконки</h3>
+      
+      
+      <ul>
+        
+        
+        <li><a href="/2019/01/08/color-icons.html">Иконки должны быть цветными</a></li>
+        
+        
+        </ul>
+      
+      
+      
+      <h3>цвет</h3>
+      
+      
+      <ul>
+        
+        
+        <li><a href="/2019/01/08/color-icons.html">Иконки должны быть цветными</a></li>
+        
+        
+        </ul>
+      
+      
+      
+      <h3>как отличаться</h3>
+      
+      
+      <ul>
+        
+        
+        <li><a href="/2019/01/08/color-icons.html">Иконки должны быть цветными</a></li>
+        
+        
+        </ul>
+      
+    </aside>
   </div><a class="u-url" href="/2018/08/26/vs-code-syntax-highlight.html" hidden></a>
 </article>
 
@@ -93,10 +239,7 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-      </div>
-
-      <div class="footer-col footer-col-3">
+      <div class="footer-col footer-col-3 footer-info">
         <ul class="contact-list">
           <li>Почта: <a class="u-email" href="mailto:vwebdis@gmail.com">vwebdis@gmail.com</a></li>
           <li>Собрано на <a href="https://jekyllrb.com/">Jekyll</a></li>
