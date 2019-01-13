@@ -17,10 +17,37 @@ figure {
 	margin-bottom: 0;
 }
 
-/* .post-content {
-	display: flex;
+.aside-heading {
+	font-size: 1.5rem !important;
 }
 
-.categories-sidebar {
+.tag-link:not(:last-child)::after {
+	content: ',';
+}
 
-} */
+.tag-text {
+	padding: 0;
+}
+
+.post-preview {
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 4px;
+	padding: 15px;
+}
+
+.post-feature-image {
+	max-height: 300px;
+	margin-bottom: 15px;
+}
+
+.post-excerpt {
+	color: initial;
+	text-decoration: none;
+	font-size: initial;
+	margin-bottom: 0;
+}
+
+.post-link:hover {
+	text-decoration: none;
+}
