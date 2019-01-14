@@ -25,8 +25,8 @@ figure {
 	content: ',';
 }
 
-.tag-text {
-	padding: 0;
+.highlight {
+	white-space: normal;
 }
 
 .post-preview {
