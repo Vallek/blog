@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-16T22:58:36+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Борьба с дизайном</title><subtitle>Конструктивная критика дизайн-решений</subtitle><entry><title type="html">Иконки должны быть цветными</title><link href="http://localhost:4000/2019/01/08/color-icons.html" rel="alternate" type="text/html" title="Иконки должны быть цветными" /><published>2019-01-08T00:00:00+03:00</published><updated>2019-01-08T00:00:00+03:00</updated><id>http://localhost:4000/2019/01/08/color-icons</id><content type="html" xml:base="http://localhost:4000/2019/01/08/color-icons.html">&lt;p&gt;Цвет - важная часть любого интерфейса, особенно того, где элементы маленькие, их много и они плотно прижаты друг к другу. Дизайнеру интерфейсов с иконками стоит пользоваться любой возможностью ускорить считываемость. К сожалению, многими современными дизайнерами цвет в оформлении иконок игнорируется. Виной тому, как это часто бывает, - мода.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-17T14:28:30+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Борьба с дизайном</title><subtitle>Конструктивная критика дизайн-решений</subtitle><entry><title type="html">Иконки должны быть цветными</title><link href="http://localhost:4000/2019/01/08/color-icons.html" rel="alternate" type="text/html" title="Иконки должны быть цветными" /><published>2019-01-08T00:00:00+03:00</published><updated>2019-01-08T00:00:00+03:00</updated><id>http://localhost:4000/2019/01/08/color-icons</id><content type="html" xml:base="http://localhost:4000/2019/01/08/color-icons.html">&lt;p&gt;Цвет - важная часть любого интерфейса, особенно того, где элементы маленькие, их много и они плотно прижаты друг к другу. Дизайнеру интерфейсов с иконками стоит пользоваться любой возможностью ускорить считываемость. К сожалению, многими современными дизайнерами цвет в оформлении иконок игнорируется. Виной тому, как это часто бывает, - мода.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/Images/Screenshot_2019-01-08SearchUI_Bar.png&quot; alt=&quot;Иконки в системном трее&quot; /&gt;&lt;/p&gt;
 
@@ -37,7 +37,7 @@
   &lt;li&gt;В пользовательские настройки добавляем следующую конструкцию:&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;“editor.tokenColorCustomizations”: {
+&lt;pre&gt;&lt;code class=&quot;language-`&quot;&gt;“editor.tokenColorCustomizations”: {
     “[Solarized Dark]”: {
         “textMateRules”: [
             {
@@ -49,7 +49,7 @@
         ],
     },
 },
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&quot;как-изменить-другую-тему-другие-параметры-и-другие-языки&quot;&gt;Как изменить другую тему, другие параметры и другие языки&lt;/h2&gt;
 
 &lt;p&gt;Название темы в квадратных скобках просто заменяете на вашу. Вам нужно узнать значение scope для того элемента, который вы хотите изменить. Для этого откройте файл с кодом. Вызовите командную строку (Ctrl+Shift+P). Наберите Developer: Inspect TM Scopes и нажмите Enter. При клике на элемент, появится всплывающее окно:&lt;/p&gt;
