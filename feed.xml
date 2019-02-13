@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-13T21:24:04+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Борьба с дизайном</title><subtitle>Конструктивная критика дизайн-решений</subtitle><entry><title type="html">Иконки должны быть цветными</title><link href="http://localhost:4000/2019/01/08/color-icons.html" rel="alternate" type="text/html" title="Иконки должны быть цветными" /><published>2019-01-08T00:00:00+03:00</published><updated>2019-01-08T00:00:00+03:00</updated><id>http://localhost:4000/2019/01/08/color-icons</id><content type="html" xml:base="http://localhost:4000/2019/01/08/color-icons.html">&lt;p&gt;Цвет - важная часть любого интерфейса, особенно того, где элементы маленькие, их много и они плотно прижаты друг к другу. Дизайнеру интерфейсов с иконками стоит пользоваться любой возможностью ускорить считываемость. К сожалению, многими современными дизайнерами цвет в оформлении иконок игнорируется. Виной тому, как это часто бывает, - мода.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-13T22:45:18+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Борьба с дизайном</title><subtitle>Конструктивная критика дизайн-решений</subtitle><entry><title type="html">Иконки должны быть цветными</title><link href="http://localhost:4000/2019/01/08/color-icons.html" rel="alternate" type="text/html" title="Иконки должны быть цветными" /><published>2019-01-08T00:00:00+03:00</published><updated>2019-01-08T00:00:00+03:00</updated><id>http://localhost:4000/2019/01/08/color-icons</id><content type="html" xml:base="http://localhost:4000/2019/01/08/color-icons.html">&lt;p&gt;Цвет - важная часть любого интерфейса, особенно того, где элементы маленькие, их много и они плотно прижаты друг к другу. Дизайнеру интерфейсов с иконками стоит пользоваться любой возможностью ускорить считываемость. К сожалению, многими современными дизайнерами цвет в оформлении иконок игнорируется. Виной тому, как это часто бывает, - мода.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/Images/Screenshot_2019-01-08SearchUI_Bar.png&quot; alt=&quot;Иконки в системном трее&quot; /&gt;&lt;/p&gt;
 
@@ -99,7 +99,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/Images/kAgQm1DtJXpWTXcyHRg4-g.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Это только набросок. Тут еще можно много чего улучшить. Сам текст, шрифт, расстояния, ширина блоков с текстом, черные блоки внизу было лень перекрашивать (они должны быть без черного фона), детали. При желании можно вписать статистику в стену с ростом на фоне. А вот для травы уже места не нашлось. Рамка, чтобы тут на белом фоне были видны границы. Думаю, что шанс того, что кто-то остановиться, дочитает до конца, задумается и позвонит, возрастет.&lt;/p&gt;</content><author><name></name></author><category term="design" /><category term="razbor" /><category term="ads" /><summary type="html">Сегодня у нас разбор рекламы установки контейнеров для раздельного сбора мусора во дворах. Выглядит она вот так:</summary></entry><entry><title type="html">Фотошоп-трюки: хроматическая аберрация и маска границ</title><link href="http://localhost:4000/2018/06/01/chrom-abber-ph-mask.html" rel="alternate" type="text/html" title="Фотошоп-трюки: хроматическая аберрация и маска границ" /><published>2018-06-01T00:00:00+03:00</published><updated>2018-06-01T00:00:00+03:00</updated><id>http://localhost:4000/2018/06/01/chrom-abber-ph-mask</id><content type="html" xml:base="http://localhost:4000/2018/06/01/chrom-abber-ph-mask.html">&lt;p&gt;&lt;img src=&quot;/Images/ZUtvQ4jAZtX8dGB1gbtBWQ.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Это только набросок. Тут еще можно много чего улучшить. Сам текст, шрифт, расстояния, ширина блоков с текстом, черные блоки внизу было лень перекрашивать (они должны быть без черного фона), детали. При желании можно вписать статистику в стену с ростом на фоне. А вот для травы уже места не нашлось. Рамка, чтобы тут на белом фоне были видны границы. Думаю, что шанс того, что кто-то остановиться, дочитает до конца, задумается и позвонит, возрастет.&lt;/p&gt;</content><author><name></name></author><category term="design" /><category term="razbor" /><category term="ads" /><summary type="html">Сегодня у нас разбор рекламы установки контейнеров для раздельного сбора мусора во дворах. Выглядит она вот так:</summary></entry><entry><title type="html">Фотошоп-трюки: хроматическая аберрация и маска границ</title><link href="http://localhost:4000/2018/06/01/chrom-abber-ph-mask.html" rel="alternate" type="text/html" title="Фотошоп-трюки: хроматическая аберрация и маска границ" /><published>2018-06-01T00:00:00+03:00</published><updated>2018-06-01T00:00:00+03:00</updated><id>http://localhost:4000/2018/06/01/chrom-abber-ph-mask</id><content type="html" xml:base="http://localhost:4000/2018/06/01/chrom-abber-ph-mask.html">&lt;p&gt;&lt;img src=&quot;/Images/ZUtvQ4jAZtX8dGB1gbtBWQ.jpeg&quot; alt=&quot;фото голубя с ХА&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Сегодня расскажу вам, как бороться с хроматической аберрацией в фотошопе. На самом деле, саму аберрацию побороть довольно просто, а вот последствия этой борьбы уже нет.&lt;/p&gt;
 
@@ -153,7 +153,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/Images/chromfin.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="photoshop" /><category term="tricks" /><summary type="html"></summary></entry><entry><title type="html">Разбор дизайна за 27.05.18</title><link href="http://localhost:4000/2018/05/27/razbor.html" rel="alternate" type="text/html" title="Разбор дизайна за 27.05.18" /><published>2018-05-27T03:00:00+03:00</published><updated>2018-05-27T03:00:00+03:00</updated><id>http://localhost:4000/2018/05/27/razbor</id><content type="html" xml:base="http://localhost:4000/2018/05/27/razbor.html">&lt;p&gt;Сегодня разберем социальную рекламу. Я увидел ее в метро, тогда не снял (лень, неудобно), но смог найти в инете (что даже лучше).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/Images/WydY80VmJcpFtcDebQZj9Q.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/Images/WydY80VmJcpFtcDebQZj9Q.jpg&quot; alt=&quot;реклама&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Это классический пример социальной рекламы методом запугивания. Метод этот очень популярен у нас в стране. При этом он не работает. Давайте разберемся, почему и как сделать так, чтобы эта реклама приносила пользу.&lt;/p&gt;
 
@@ -179,11 +179,11 @@
 
 &lt;p&gt;Тут вот риэлтор спрашивает, как улучшить объявление:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/Images/7Yb6OQINcySAI_lmd7gqIg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/Images/7Yb6OQINcySAI_lmd7gqIg.png&quot; alt=&quot;скриншот&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;На что ему отвечают вот так:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/Images/1-savHfIy4ZByfXhFNQ6hg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/Images/1-savHfIy4ZByfXhFNQ6hg.png&quot; alt=&quot;скриншот&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Мой разбор:&lt;/p&gt;
 
@@ -223,10 +223,10 @@
 
 &lt;p&gt;&lt;strong&gt;Обновление&lt;/strong&gt;: в твиторе мне указали, что фразу про 2008 год можно понять полностью противоположным образом. Мол дом не новый, все въехавшие уже сделали ремонт. Но вывод это не меняет. В совсем новом доме, действительно, будут сверлить постоянно. Но мне кажется, это меньшая часть сдаваемых квартир. А ремонт, как известно, могут начать делать в любой момент.&lt;/p&gt;</content><author><name></name></author><category term="razbor" /><category term="text" /><summary type="html">Продолжаю разбирать дизайн, только сегодня не дизайн, а текст объявления. На этот раз пример взял из рубрики советов другой популярной студии.</summary></entry><entry><title type="html">Разбор дизайна за 25.05.18</title><link href="http://localhost:4000/2018/05/25/razbor.html" rel="alternate" type="text/html" title="Разбор дизайна за 25.05.18" /><published>2018-05-25T00:00:00+03:00</published><updated>2018-05-25T00:00:00+03:00</updated><id>http://localhost:4000/2018/05/25/razbor</id><content type="html" xml:base="http://localhost:4000/2018/05/25/razbor.html">&lt;p&gt;С сегодняшнего дня начинаю выкладывать критический разбор дизайна всякой рекламы и не только а-ля Студия Лебедева, только с полезными советами. Первый пример взял прямо оттуда:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/Images/7zUps7IPLyCM7gBKbY5FyA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/Images/7zUps7IPLyCM7gBKbY5FyA.png&quot; alt=&quot;оригинал&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Разбор:
-&lt;img src=&quot;/Images/R9E33MVcSRW_Q9L942G4mw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="design" /><category term="razbor" /><category term="ads" /><summary type="html">С сегодняшнего дня начинаю выкладывать критический разбор дизайна всякой рекламы и не только а-ля Студия Лебедева, только с полезными советами. Первый пример взял прямо оттуда:</summary></entry><entry><title type="html">CSS-трюки: Несколько изображений внутри букв без фотошопа</title><link href="http://localhost:4000/2018/05/09/css-tricks-images-in-letters.html" rel="alternate" type="text/html" title="CSS-трюки: Несколько изображений внутри букв без фотошопа" /><published>2018-05-09T00:00:00+03:00</published><updated>2018-05-09T00:00:00+03:00</updated><id>http://localhost:4000/2018/05/09/css-tricks-images-in-letters</id><content type="html" xml:base="http://localhost:4000/2018/05/09/css-tricks-images-in-letters.html">&lt;p&gt;&lt;img src=&quot;/Images/w_QTE8rloTnmwE7OT0bbuw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/Images/R9E33MVcSRW_Q9L942G4mw.png&quot; alt=&quot;разбор&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="design" /><category term="razbor" /><category term="ads" /><summary type="html">С сегодняшнего дня начинаю выкладывать критический разбор дизайна всякой рекламы и не только а-ля Студия Лебедева, только с полезными советами. Первый пример взял прямо оттуда:</summary></entry><entry><title type="html">CSS-трюки: Несколько изображений внутри букв без фотошопа</title><link href="http://localhost:4000/2018/05/09/css-tricks-images-in-letters.html" rel="alternate" type="text/html" title="CSS-трюки: Несколько изображений внутри букв без фотошопа" /><published>2018-05-09T00:00:00+03:00</published><updated>2018-05-09T00:00:00+03:00</updated><id>http://localhost:4000/2018/05/09/css-tricks-images-in-letters</id><content type="html" xml:base="http://localhost:4000/2018/05/09/css-tricks-images-in-letters.html">&lt;p&gt;&lt;img src=&quot;/Images/w_QTE8rloTnmwE7OT0bbuw.png&quot; alt=&quot;надпись css-трюки&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Привет, сегодня будет первый пост про HTML/CSS верстку, веб-дизайн и вот это всё.&lt;/p&gt;
 
@@ -260,13 +260,13 @@
 
 &lt;p&gt;Пример: клавиатура с подставкой для планшета, которая превращает его в ноутбук. То есть сначала у ноутбука убрали клаву и сделали тачскрин. А потом вернули клаву. Почему? Потому что пользоваться экранной неудобно. Потому что тачскрин хорош только для ряда операций (непосредственное и простое взаимодействие с контентом типа перетащить/пролистать) и совершенно непригоден для других (собственно печать текста и любой профессиональный софт). Но многие почему-то оказались не готовы покупать каждого устройства по штуке, поэтому костыли костылики. Но это довольно сложный пример, я даже не знаю, есть ли тут какое-то решение.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/Images/GzeOuuvmG3lBXg1H-NrMew.jpeg&quot; alt=&quot;планшет с клавиатурой&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/Images/GzeOuuvmG3lBXg1H-NrMew.jpeg&quot; alt=&quot;переходники для продукции компании Apple&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Другой пример: переходники для продукции компании Apple, которые появились потому что гении из Купертино решили придумать еще один стандарт (я не очень люблю тот комикс, его часто используют не в тему, но тут как раз про это). Ну или просто продать переходничков за 50 баксов.&lt;/p&gt;
 
 &lt;p&gt;Моя любимая тема: расширения, скрипты и пользовательские стили, исправляющие недочеты браузеров и сайтов. А также очередное обновление, после которого всё вышеперечисленное отваливается.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/Images/HHmryR-JBsjZ7afqGCf-RA.png&quot; alt=&quot;планшет с клавиатурой&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/Images/HHmryR-JBsjZ7afqGCf-RA.png&quot; alt=&quot;выступ корпуса на экран смартфонов&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ну и свежий пример: выступ корпуса на экран смартфонов от тех же дизайнеров. Вот решила какая-то (пусть и держащая пол рынка) компания изменить форму экрана и теперь, видимо, все должны плясать под ее дудку. Даже стандарты CSS обновили. Вдумайтесь! Стандарты верстки сайтов и приложений изменили, потому что одна компания производитель смартфонов решила сделать какой-то выступ на экране. А если завтра они решат, что экран должен быть треугольным, или круглым (в спецификациях как раз такой пример лол)? И разумеется яблочные апологеты сразу ринулись объяснять неразумным пользователям, какое это гениальное решение. Правда уже появился метод-костыль, когда выступ просто скрывается уменьшением высоты экрана и черными полосками. Короче Г Е Н И И.&lt;/p&gt;
 
@@ -282,7 +282,7 @@
 
 &lt;p&gt;Вот моя любимая тема — браузеры. Браузер — сложная штука и поменять в ней можно много чего. Вряд ли кто-то будет возражать, что любой браузер должен поддерживать все последние стандарты. Нет причин не внедрять то, что отвечает за возможность отображать сайты. Хотя даже тут можно спросить, так ли нам нужна поддержка VR, AR и других букв, но разработкой стандартов занимаются не авторы браузеров (по-крайней мере одних из двух). Поэтому тут им остается только обновлять. То же самое относится к исправлению багов и проблем производительности.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/Images/NfCUmJ4E9uAm5kWhvKLrBA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/Images/NfCUmJ4E9uAm5kWhvKLrBA.png&quot; alt=&quot;Устаревшие расширения в устаревшем сайдбаре&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Устаревшие расширения в устаревшем сайдбаре. И это еще новый профиль, раньше было больше. Но самое смешное на этом cкриншоте — новая фича от Мозиллы — Контейнеры, сделанная в виде старого расширения (но почему-то без плашки Legacy).&lt;/p&gt;
 
